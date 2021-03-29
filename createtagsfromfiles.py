@@ -1,1 +1,2 @@
-print("toto")
+import glob
+print(glob.glob('./*'))
